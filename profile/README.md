@@ -1,8 +1,7 @@
+
 <p align="center">
-  <img src="https://www.glastroesch.com/typo3conf/ext/is_design/Resources/Public/img/Logo.png" alt="Glas Trösch Logo" width="220">
+  <img src="https://www.glastroesch.com/typo3conf/ext/is_design/Resources/Public/img/Logo.png" alt="Logo">
 </p>
-
-
 
 # Glas Trösch
 
